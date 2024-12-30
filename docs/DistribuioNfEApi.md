@@ -28,12 +28,12 @@ Utilize esse endpoint para obter o PDF do documento.    Schemas suportados:  * p
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -101,12 +101,12 @@ Utilize esse endpoint para obter o XML das informações resumidas ou documento 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -172,12 +172,12 @@ Consultar distribuição
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -245,12 +245,12 @@ Utilize esse endpoint para obter as informações resumidas ou documento fiscal 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -318,12 +318,12 @@ Consulta os detalhes de uma manifestação de NF-e já existente. Forneça o ID 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -391,12 +391,12 @@ Este endpoint permite que o destinatário obtenha Documentos Fiscais  Eletrônic
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -464,12 +464,12 @@ Retorna a lista de distribuições de NF-e de acordo com os critérios de busca 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -545,12 +545,12 @@ Retorna a lista de documentos fiscais eletrônicos de interesse da pessoa ou emp
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -634,12 +634,12 @@ Retorna a lista de manifestações de NF-e de acordo com os critérios de busca 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -715,12 +715,12 @@ No processo de distribuição de DF-e, as notas fiscais eletrônicas (NF-e)  sã
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -798,12 +798,12 @@ O processo de manifestação do destinatário permite que os destinatários  de 
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DistribuioNfEApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.DistribuioNfEApi;
 
 public class Example {
   public static void main(String[] args) {

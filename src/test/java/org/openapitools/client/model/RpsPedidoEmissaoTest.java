@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -23,11 +23,11 @@ import java.time.OffsetDateTime;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.RpsDadosConstrucaoCivil;
-import org.openapitools.client.model.RpsDadosIntermediario;
-import org.openapitools.client.model.RpsDadosServico;
-import org.openapitools.client.model.RpsDadosTomador;
-import org.openapitools.client.model.RpsIdentificacaoPrestador;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsDadosConstrucaoCivil;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsDadosIntermediario;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsDadosServico;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsDadosTomador;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsIdentificacaoPrestador;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

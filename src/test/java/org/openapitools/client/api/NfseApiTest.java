@@ -11,24 +11,24 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
 import java.io.File;
-import org.openapitools.client.model.Nfse;
-import org.openapitools.client.model.NfseCancelamento;
-import org.openapitools.client.model.NfseCidadeMetadados;
-import org.openapitools.client.model.NfseCidadesAtendidas;
-import org.openapitools.client.model.NfseDpsPedidoEmissao;
-import org.openapitools.client.model.NfseListagem;
-import org.openapitools.client.model.NfseLoteDpsPedidoEmissao;
-import org.openapitools.client.model.NfsePedidoCancelamento;
-import org.openapitools.client.model.NfsePedidoEmissao;
-import org.openapitools.client.model.NfsePedidoSincronizacao;
-import org.openapitools.client.model.NfseSincronizacao;
-import org.openapitools.client.model.RpsLote;
-import org.openapitools.client.model.RpsLoteListagem;
-import org.openapitools.client.model.RpsPedidoEmissaoLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Nfse;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseCidadeMetadados;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseCidadesAtendidas;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseDpsPedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseLoteDpsPedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfsePedidoCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfsePedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfsePedidoSincronizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseSincronizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsLoteListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.RpsPedidoEmissaoLote;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

@@ -41,12 +41,12 @@ Alterar configuração de CT-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -114,12 +114,12 @@ Alterar configuração de Distribuição de NF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -187,12 +187,12 @@ Alterar configuração de MDF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -260,12 +260,12 @@ Alterar configuração de NFC-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -333,12 +333,12 @@ Alterar configuração de NFCom
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -406,12 +406,12 @@ Alterar configuração de NF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -479,12 +479,12 @@ Alterar configuração de NFS-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -554,12 +554,12 @@ Altera o cadastro de uma empresa (emitente/prestador) que esteja associada a sua
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -627,12 +627,12 @@ Baixar logotipo
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -700,12 +700,12 @@ Cadastre ou atualize um certificado digital e vincule a sua empresa, para que po
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -773,12 +773,12 @@ Consultar certificado
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -844,12 +844,12 @@ Consultar configuração de CT-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -915,12 +915,12 @@ Consultar configuração de Distribuição de NF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -986,12 +986,12 @@ Consultar configuração de MDF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1057,12 +1057,12 @@ Consultar configuração de NFC-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1128,12 +1128,12 @@ Consultar configuração de NFCom
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1199,12 +1199,12 @@ Consultar configuração de NF-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1270,12 +1270,12 @@ Consultar configuração de NFS-e
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1341,12 +1341,12 @@ Consultar empresa
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1414,12 +1414,12 @@ Cadastre uma nova empresa (emitente ou prestador) à sua conta.
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1487,12 +1487,12 @@ Cadastre ou atualize um certificado digital e vincule a sua empresa, para que po
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1562,12 +1562,12 @@ Cadastre ou atualize um logotipo e vincule a sua empresa.    **Restrições:**  
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1634,12 +1634,12 @@ Deletar certificado
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1704,12 +1704,12 @@ Deletar empresa
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1774,12 +1774,12 @@ Deletar logotipo
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1846,12 +1846,12 @@ Retorna a lista das empresas associadas à sua conta. As empresas são retornada
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.EmpresaApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.EmpresaApi;
 
 public class Example {
   public static void main(String[] args) {

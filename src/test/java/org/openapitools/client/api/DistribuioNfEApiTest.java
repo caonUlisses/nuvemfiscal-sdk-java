@@ -11,19 +11,19 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.DistribuicaoNfe;
-import org.openapitools.client.model.DistribuicaoNfeDocumento;
-import org.openapitools.client.model.DistribuicaoNfeDocumentoListagem;
-import org.openapitools.client.model.DistribuicaoNfeEvento;
-import org.openapitools.client.model.DistribuicaoNfeListagem;
-import org.openapitools.client.model.DistribuicaoNfeNotaListagem;
-import org.openapitools.client.model.DistribuicaoNfePedido;
-import org.openapitools.client.model.DistribuicaoNfePedidoManifestacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfeDocumento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfeDocumentoListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfeEvento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfeListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfeNotaListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfePedido;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DistribuicaoNfePedidoManifestacao;
 import java.io.File;
-import org.openapitools.client.model.ManifestacaoNfeListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.ManifestacaoNfeListagem;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

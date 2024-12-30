@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -23,8 +23,8 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.CteSefazLacUnidTransp;
-import org.openapitools.client.model.CteSefazUnidCarga;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazLacUnidTransp;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazUnidCarga;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

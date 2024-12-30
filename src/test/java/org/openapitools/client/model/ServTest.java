@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -20,14 +20,14 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 import java.io.IOException;
 import java.util.Arrays;
-import org.openapitools.client.model.AtvEvento;
-import org.openapitools.client.model.CServ;
-import org.openapitools.client.model.ComExterior;
-import org.openapitools.client.model.ExploracaoRodoviaria;
-import org.openapitools.client.model.InfoCompl;
-import org.openapitools.client.model.InfoObra;
-import org.openapitools.client.model.LocPrest;
-import org.openapitools.client.model.LocacaoSublocacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.AtvEvento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CServ;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.ComExterior;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.ExploracaoRodoviaria;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.InfoCompl;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.InfoObra;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.LocPrest;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.LocacaoSublocacao;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

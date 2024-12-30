@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -23,9 +23,9 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.CteSefazNatCarga;
-import org.openapitools.client.model.CteSefazPeri;
-import org.openapitools.client.model.CteSefazTarifa;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazNatCarga;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazPeri;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazTarifa;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

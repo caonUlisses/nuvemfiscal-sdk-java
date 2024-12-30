@@ -19,12 +19,12 @@ Consultar dados do CNPJ
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.CnpjApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.CnpjApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -92,12 +92,12 @@ Retorna uma lista de estabelecimentos de acordo com os critérios de busca utili
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.CnpjApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.models.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.CnpjApi;
 
 public class Example {
   public static void main(String[] args) {

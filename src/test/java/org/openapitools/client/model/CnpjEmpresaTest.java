@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -24,19 +24,19 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.CnpjCnae;
-import org.openapitools.client.model.CnpjCnaeSecundario;
-import org.openapitools.client.model.CnpjEndereco;
-import org.openapitools.client.model.CnpjMotivoSituacaoCadastral;
-import org.openapitools.client.model.CnpjNaturezaJuridica;
-import org.openapitools.client.model.CnpjOpcaoSimei;
-import org.openapitools.client.model.CnpjOpcaoSimples;
-import org.openapitools.client.model.CnpjPais;
-import org.openapitools.client.model.CnpjPorteEmpresa;
-import org.openapitools.client.model.CnpjSituacaoCadastral;
-import org.openapitools.client.model.CnpjSituacaoEspecial;
-import org.openapitools.client.model.CnpjSocio;
-import org.openapitools.client.model.CnpjTelefone;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjCnae;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjCnaeSecundario;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjEndereco;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjMotivoSituacaoCadastral;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjNaturezaJuridica;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjOpcaoSimei;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjOpcaoSimples;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjPais;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjPorteEmpresa;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjSituacaoCadastral;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjSituacaoEspecial;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjSocio;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjTelefone;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

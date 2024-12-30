@@ -11,11 +11,11 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.CnpjEmpresa;
-import org.openapitools.client.model.CnpjListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjEmpresa;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjListagem;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

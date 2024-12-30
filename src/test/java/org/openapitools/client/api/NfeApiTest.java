@@ -11,29 +11,29 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Dfe;
-import org.openapitools.client.model.DfeCancelamento;
-import org.openapitools.client.model.DfeCartaCorrecao;
-import org.openapitools.client.model.DfeContribuinteInfCons;
-import org.openapitools.client.model.DfeEvento;
-import org.openapitools.client.model.DfeEventoListagem;
-import org.openapitools.client.model.DfeInutilizacao;
-import org.openapitools.client.model.DfeListagem;
-import org.openapitools.client.model.DfeLote;
-import org.openapitools.client.model.DfeLoteListagem;
-import org.openapitools.client.model.DfePedidoEnvioEmail;
-import org.openapitools.client.model.DfePedidoInutilizacao;
-import org.openapitools.client.model.DfeSefazStatus;
-import org.openapitools.client.model.DfeSincronizacao;
-import org.openapitools.client.model.EmailStatusResponse;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Dfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeCartaCorrecao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeContribuinteInfCons;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeEvento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeEventoListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeInutilizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeLoteListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfePedidoEnvioEmail;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfePedidoInutilizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeSefazStatus;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeSincronizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmailStatusResponse;
 import java.io.File;
-import org.openapitools.client.model.NfePedidoCancelamento;
-import org.openapitools.client.model.NfePedidoCartaCorrecao;
-import org.openapitools.client.model.NfePedidoEmissao;
-import org.openapitools.client.model.NfePedidoEmissaoLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfePedidoCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfePedidoCartaCorrecao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfePedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfePedidoEmissaoLote;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

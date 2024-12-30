@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -20,9 +20,9 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 import java.io.IOException;
 import java.util.Arrays;
-import org.openapitools.client.model.TribFederal;
-import org.openapitools.client.model.TribMunicipal;
-import org.openapitools.client.model.TribTotal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.TribFederal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.TribMunicipal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.TribTotal;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

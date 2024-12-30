@@ -11,10 +11,10 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.CepEndereco;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CepEndereco;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

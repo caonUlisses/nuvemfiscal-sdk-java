@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -22,9 +22,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.NfeSefazInfAdicObsCont;
-import org.openapitools.client.model.NfeSefazInfAdicObsFisco;
-import org.openapitools.client.model.NfeSefazProcRef;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfAdicObsCont;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfAdicObsFisco;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazProcRef;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

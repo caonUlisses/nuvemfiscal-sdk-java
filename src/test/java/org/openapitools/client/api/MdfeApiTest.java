@@ -11,28 +11,28 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Dfe;
-import org.openapitools.client.model.DfeCancelamento;
-import org.openapitools.client.model.DfeEvento;
-import org.openapitools.client.model.DfeListagem;
-import org.openapitools.client.model.DfeLote;
-import org.openapitools.client.model.DfeLoteListagem;
-import org.openapitools.client.model.DfeSefazStatus;
-import org.openapitools.client.model.DfeSincronizacao;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Dfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeEvento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeLoteListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeSefazStatus;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeSincronizacao;
 import java.io.File;
-import org.openapitools.client.model.MdfeEncerramento;
-import org.openapitools.client.model.MdfeInclusaoCondutor;
-import org.openapitools.client.model.MdfeInclusaoDfe;
-import org.openapitools.client.model.MdfeNaoEncerrados;
-import org.openapitools.client.model.MdfePedidoCancelamento;
-import org.openapitools.client.model.MdfePedidoEmissao;
-import org.openapitools.client.model.MdfePedidoEmissaoLote;
-import org.openapitools.client.model.MdfePedidoEncerramento;
-import org.openapitools.client.model.MdfePedidoInclusaoCondutor;
-import org.openapitools.client.model.MdfePedidoInclusaoDfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfeEncerramento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfeInclusaoCondutor;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfeInclusaoDfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfeNaoEncerrados;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoEmissaoLote;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoEncerramento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoInclusaoCondutor;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.MdfePedidoInclusaoDfe;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

@@ -11,16 +11,16 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Dfe;
-import org.openapitools.client.model.DfeCancelamento;
-import org.openapitools.client.model.DfeListagem;
-import org.openapitools.client.model.DfeSefazStatus;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Dfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeSefazStatus;
 import java.io.File;
-import org.openapitools.client.model.NfcomPedidoCancelamento;
-import org.openapitools.client.model.NfcomPedidoEmissao;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomPedidoCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomPedidoEmissao;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

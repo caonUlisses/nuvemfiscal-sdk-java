@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -23,10 +23,10 @@ import java.time.OffsetDateTime;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.DPS;
-import org.openapitools.client.model.NfseCancelamento;
-import org.openapitools.client.model.NfseMensagemRetorno;
-import org.openapitools.client.model.Rps;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DPS;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseCancelamento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfseMensagemRetorno;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Rps;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

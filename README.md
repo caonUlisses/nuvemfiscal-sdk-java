@@ -81,12 +81,12 @@ Please follow the [installation](#installation) instruction and execute the foll
 ```java
 
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.model.*;
-import org.openapitools.client.api.CepApi;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiClient;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.Configuration;
+import io.github.com.caonulisses.nuvemfiscalsdk.auth.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.*;
+import io.github.com.caonulisses.nuvemfiscalsdk.api.CepApi;
 
 public class Example {
   public static void main(String[] args) {

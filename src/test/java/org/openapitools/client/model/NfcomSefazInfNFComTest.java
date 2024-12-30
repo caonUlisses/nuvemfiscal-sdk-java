@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -22,20 +22,20 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.NfcomSefazAssinante;
-import org.openapitools.client.model.NfcomSefazAutXML;
-import org.openapitools.client.model.NfcomSefazDest;
-import org.openapitools.client.model.NfcomSefazDet;
-import org.openapitools.client.model.NfcomSefazEmit;
-import org.openapitools.client.model.NfcomSefazGCofat;
-import org.openapitools.client.model.NfcomSefazGFat;
-import org.openapitools.client.model.NfcomSefazGFatCentral;
-import org.openapitools.client.model.NfcomSefazGFidelidade;
-import org.openapitools.client.model.NfcomSefazGSub;
-import org.openapitools.client.model.NfcomSefazIde;
-import org.openapitools.client.model.NfcomSefazInfAdic;
-import org.openapitools.client.model.NfcomSefazRespTec;
-import org.openapitools.client.model.NfcomSefazTotal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazAssinante;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazAutXML;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazDest;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazDet;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazEmit;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazGCofat;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazGFat;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazGFatCentral;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazGFidelidade;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazGSub;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazIde;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazInfAdic;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazRespTec;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfcomSefazTotal;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

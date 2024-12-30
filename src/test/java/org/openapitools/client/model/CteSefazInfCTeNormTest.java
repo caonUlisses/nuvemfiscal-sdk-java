@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -22,15 +22,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.CteSefazCobr;
-import org.openapitools.client.model.CteSefazDocAnt;
-import org.openapitools.client.model.CteSefazInfCarga;
-import org.openapitools.client.model.CteSefazInfCteSub;
-import org.openapitools.client.model.CteSefazInfDoc;
-import org.openapitools.client.model.CteSefazInfGlobalizado;
-import org.openapitools.client.model.CteSefazInfModal;
-import org.openapitools.client.model.CteSefazInfServVinc;
-import org.openapitools.client.model.CteSefazVeicNovos;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazCobr;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazDocAnt;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfCarga;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfCteSub;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfDoc;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfGlobalizado;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfModal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfServVinc;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazVeicNovos;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

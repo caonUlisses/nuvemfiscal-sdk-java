@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -22,20 +22,20 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.CteSefazAutXML;
-import org.openapitools.client.model.CteSefazCompl;
-import org.openapitools.client.model.CteSefazDest;
-import org.openapitools.client.model.CteSefazEmit;
-import org.openapitools.client.model.CteSefazExped;
-import org.openapitools.client.model.CteSefazIde;
-import org.openapitools.client.model.CteSefazInfCTeNorm;
-import org.openapitools.client.model.CteSefazInfCteComp;
-import org.openapitools.client.model.CteSefazInfCteImp;
-import org.openapitools.client.model.CteSefazInfSolicNFF;
-import org.openapitools.client.model.CteSefazReceb;
-import org.openapitools.client.model.CteSefazRem;
-import org.openapitools.client.model.CteSefazRespTec;
-import org.openapitools.client.model.CteSefazVPrest;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazAutXML;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazCompl;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazDest;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazEmit;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazExped;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazIde;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfCTeNorm;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfCteComp;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfCteImp;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazInfSolicNFF;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazReceb;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazRem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazRespTec;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CteSefazVPrest;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

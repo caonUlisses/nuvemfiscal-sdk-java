@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -23,16 +23,16 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.openapitools.client.model.NfeSefazArma;
-import org.openapitools.client.model.NfeSefazComb;
-import org.openapitools.client.model.NfeSefazDI;
-import org.openapitools.client.model.NfeSefazDetExport;
-import org.openapitools.client.model.NfeSefazGCred;
-import org.openapitools.client.model.NfeSefazInfProdEmb;
-import org.openapitools.client.model.NfeSefazInfProdNFF;
-import org.openapitools.client.model.NfeSefazMed;
-import org.openapitools.client.model.NfeSefazRastro;
-import org.openapitools.client.model.NfeSefazVeicProd;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazArma;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazComb;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazDI;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazDetExport;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazGCred;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfProdEmb;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfProdNFF;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazMed;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazRastro;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazVeicProd;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

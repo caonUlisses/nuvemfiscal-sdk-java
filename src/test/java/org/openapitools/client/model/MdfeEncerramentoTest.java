@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -22,7 +22,7 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.OffsetDateTime;
 import java.util.Arrays;
-import org.openapitools.client.model.DfeAutorEvento;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.DfeAutorEvento;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

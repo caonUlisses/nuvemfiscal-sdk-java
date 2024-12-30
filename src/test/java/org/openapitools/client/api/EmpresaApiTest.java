@@ -11,20 +11,20 @@
  */
 
 
-package org.openapitools.client.api;
+package io.github.com.caonulisses.nuvemfiscalsdk.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Empresa;
-import org.openapitools.client.model.EmpresaCertificado;
-import org.openapitools.client.model.EmpresaConfigCte;
-import org.openapitools.client.model.EmpresaConfigDistribuicaoNfe;
-import org.openapitools.client.model.EmpresaConfigMdfe;
-import org.openapitools.client.model.EmpresaConfigNfce;
-import org.openapitools.client.model.EmpresaConfigNfcom;
-import org.openapitools.client.model.EmpresaConfigNfe;
-import org.openapitools.client.model.EmpresaConfigNfse;
-import org.openapitools.client.model.EmpresaListagem;
-import org.openapitools.client.model.EmpresaPedidoCadastroCertificado;
+import io.github.com.caonulisses.nuvemfiscalsdk.ApiException;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.Empresa;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaCertificado;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigCte;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigDistribuicaoNfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigMdfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigNfce;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigNfcom;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigNfe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaConfigNfse;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaListagem;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.EmpresaPedidoCadastroCertificado;
 import java.io.File;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

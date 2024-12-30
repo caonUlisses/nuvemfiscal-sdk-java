@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -20,8 +20,8 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 import java.io.IOException;
 import java.util.Arrays;
-import org.openapitools.client.model.NfeSefazInfNFe;
-import org.openapitools.client.model.NfeSefazInfNFeSupl;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfNFe;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.NfeSefazInfNFeSupl;
 import org.openapitools.jackson.nullable.JsonNullable;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

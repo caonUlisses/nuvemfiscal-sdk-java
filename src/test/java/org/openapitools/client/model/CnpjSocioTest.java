@@ -11,7 +11,7 @@
  */
 
 
-package org.openapitools.client.model;
+package io.github.com.caonulisses.nuvemfiscalsdk.model;
 
 import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
@@ -21,11 +21,11 @@ import com.google.gson.stream.JsonWriter;
 import java.io.IOException;
 import java.time.LocalDate;
 import java.util.Arrays;
-import org.openapitools.client.model.CnpjFaixaEtaria;
-import org.openapitools.client.model.CnpjIdentificadorSocio;
-import org.openapitools.client.model.CnpjPais;
-import org.openapitools.client.model.CnpjQualificacaoSocio;
-import org.openapitools.client.model.CnpjRepresentanteLegal;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjFaixaEtaria;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjIdentificadorSocio;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjPais;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjQualificacaoSocio;
+import io.github.com.caonulisses.nuvemfiscalsdk.model.CnpjRepresentanteLegal;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 

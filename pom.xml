@@ -5,7 +5,7 @@
     <artifactId>nuvemfiscal-sdk-java</artifactId>
     <packaging>jar</packaging>
     <name>nuvemfiscal-sdk-java</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <url>https://github.com/caonUlisses/nuvemfiscal-sdk-java</url>
     <description>NuvemFiscal unofficial Java SDK</description>
     <scm>

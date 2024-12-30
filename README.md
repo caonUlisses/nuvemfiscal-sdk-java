@@ -57,7 +57,7 @@ Add this dependency to your project's build file:
   }
 
   dependencies {
-     implementation "com.github.caonUlisses:nuvemfiscal-sdk-java:2.44.0"
+    implementation 'io.github.caonulisses:nuvemfiscal-sdk-java:0.0.4'
   }
 ```
 

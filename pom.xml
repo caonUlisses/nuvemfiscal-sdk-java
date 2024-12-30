@@ -5,20 +5,19 @@
     <artifactId>nuvemfiscal-sdk-java</artifactId>
     <packaging>jar</packaging>
     <name>nuvemfiscal-sdk-java</name>
-    <version>2.44.0</version>
-    <url>https://github.com/openapitools/openapi-generator</url>
+    <version>0.0.1</version>
+    <url>https://github.com/caonUlisses/nuvemfiscal-sdk-java</url>
     <description>NuvemFiscal unofficial Java SDK</description>
     <scm>
-        <connection>scm:git:git@github.com:openapitools/openapi-generator.git</connection>
-        <developerConnection>scm:git:git@github.com:openapitools/openapi-generator.git</developerConnection>
-        <url>https://github.com/openapitools/openapi-generator</url>
+        <connection>scm:git:git@github.com:caonUlisses/nuvemfiscal-sdk-java.git</connection>
+        <developerConnection>scm:git:git@github.com:caonUlisses/nuvemfiscal-sdk-java.git</developerConnection>
+        <url>https://github.com/caonUlisses/nuvemfiscal-sdk-java.git</url>
     </scm>
 
     <licenses>
         <license>
-            <name>Unlicense</name>
+            <name>MIT</name>
             <url>http://unlicense.org</url>
-            <distribution>repo</distribution>
         </license>
     </licenses>
 

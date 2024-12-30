@@ -5,7 +5,7 @@
     <artifactId>nuvemfiscal-sdk-java</artifactId>
     <packaging>jar</packaging>
     <name>nuvemfiscal-sdk-java</name>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <url>https://github.com/caonUlisses/nuvemfiscal-sdk-java</url>
     <description>NuvemFiscal unofficial Java SDK</description>
     <scm>
@@ -31,14 +31,26 @@
     </developers>
 
     <distributionManagement>
-        <repository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/caonUlisses/nuvemfiscal-sdk-java</url>
-        </repository>
+      <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/caonUlisses/nuvemfiscal-sdk-java</url>
+      </repository>
     </distributionManagement>
+
 
     <build>
         <plugins>
+          <plugin>
+            <groupId>org.sonatype.plugins</groupId>
+            <artifactId>nexus-staging-maven-plugin</artifactId>
+            <version>1.6.7</version>
+            <extensions>true</extensions>
+            <configuration>
+              <serverId>ossrh</serverId>
+              <nexusUrl>https://s01.oss.sonatype.org/</nexusUrl>
+              <autoReleaseAfterClose>true</autoReleaseAfterClose>
+            </configuration>
+          </plugin>
            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
